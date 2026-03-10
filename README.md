@@ -1,99 +1,106 @@
-🎓 PMSSS Scholarship Management System
-Smart India Hackathon (SIH) Major Project
-📌 Overview
+# 🎓 PMSSS Scholarship Management System
+### Smart India Hackathon (SIH) Major Project
 
-This project is a prototype web platform designed to streamline the process of the Prime Minister’s Special Scholarship Scheme (PMSSS).
+---
 
-The system provides a centralized portal where students can apply for scholarships, upload required documents, and track their application status, while administrative bureaus can efficiently review, verify, and process applications.
+## 📌 Overview
 
-🎯 Project Objectives
+This project is a **prototype web platform** designed to streamline the process of the **Prime Minister’s Special Scholarship Scheme (PMSSS)**.
 
-Simplify the scholarship application process
+The system provides a centralized portal where **students can apply for scholarships, upload required documents, and track their application status**, while administrative bureaus can efficiently **review, verify, and process applications**.
 
-Provide efficient document verification
+---
 
-Enable transparent application tracking
+## 🎯 Project Objectives
 
-Create dedicated dashboards for administrative bureaus
+- Simplify the **scholarship application process**
+- Provide **efficient document verification**
+- Enable **transparent application tracking**
+- Create **dedicated dashboards for administrative bureaus**
 
-👥 User Roles
-👨‍🎓 Student Portal
+---
+
+## 👥 User Roles
+
+### 👨‍🎓 Student Portal
 
 Students can:
 
-Login securely
+- Login securely  
+- Upload required documents  
+- Track application status  
+- View announcements and updates  
+- Access support features  
 
-Upload required documents
+---
 
-View application status
-
-Access announcements and updates
-
-Interact with support features
-
-🏢 SAG Bureau Dashboard
+### 🏢 SAG Bureau Dashboard
 
 The SAG Bureau can:
 
-Review student applications
+- Review student applications  
+- Verify uploaded documents  
+- Approve or reject applications  
+- Manage application records  
 
-Verify uploaded documents
+---
 
-Approve or reject applications
-
-Monitor application statistics
-
-💰 Financial Bureau
+### 💰 Financial Bureau
 
 The Financial Bureau is responsible for:
 
-Final verification of approved applications
+- Final verification of approved applications  
+- Processing scholarship disbursement  
+- Managing financial records  
 
-Managing scholarship disbursement
+---
 
-Processing financial records
+## ⚙️ Key Features
 
-⚙️ Key Features
+- 🔐 Student authentication system  
+- 📂 Document upload portal  
+- 📊 Application review dashboard  
+- 📈 Application status tracking  
+- 📢 Announcements section  
+- 🛠️ Administrative task management  
 
-🔐 Student login system
+---
 
-📂 Document upload portal
+## 🛠️ Technologies Used
 
-📊 Application review dashboard
+| Technology | Purpose |
+|------------|--------|
+| HTML | Web page structure |
+| CSS | Styling and layout |
+| Bootstrap | Responsive UI design |
+| Java (Servlets / JSP) | Backend functionality |
+| Apache Tomcat | Application server |
+| Figma | UI design and prototyping |
 
-📈 Status tracking system with progress stages
+---
 
-📢 Announcements section
+## 📊 Application Workflow
 
-🛠️ Administrative task management
-
-🛠️ Technologies Used
-
-| Technology                | Purpose                          |
-| ------------------------- | -------------------------------- |
-| **HTML**                  | Web page structure               |
-| **CSS**                   | Styling and layout               |
-| **Bootstrap**             | Responsive UI components         |
-| **Java (Servlets / JSP)** | Backend logic                    |
-| **Apache Tomcat**         | Web server                       |
-| **Figma**                 | Interface design and prototyping |
-
-📊 Application Workflow
-
-Student Registration/Login
-        ↓
+```
+Student Registration / Login
+          ↓
 Application Submission
-        ↓
+          ↓
 Document Upload
-        ↓
+          ↓
 SAG Bureau Verification
-        ↓
+          ↓
 Application Approval
-        ↓
+          ↓
 Financial Bureau Processing
-        ↓
+          ↓
 Scholarship Disbursement
+```
 
-🚀 Project Purpose
+---
 
-This project was developed as part of a Smart India Hackathon (SIH) major project to demonstrate how digital systems can improve the efficiency, transparency, and management of government scholarship programs.
+## 🚀 Project Purpose
+
+This project was developed as part of a **Smart India Hackathon (SIH) major project** to demonstrate how digital platforms can improve the **efficiency, transparency, and management of government scholarship systems**.
+
+---
